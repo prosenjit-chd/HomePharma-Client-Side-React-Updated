@@ -1,0 +1,126 @@
+[
+    {
+        "id": "B002RL8IYK",
+        "title": "Napa 500",
+        "price": 1.50,
+        "type": "home",
+        "catagory": "Normal",
+        "meal": "After Meal",
+        "deatails": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+        "img": "https://cdn.osudpotro.com/medicine/napa-500-mg-1634182813132.webp",
+        "dosage": "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily. Children (6-12 years): ½ to 1 tablet 3 to 4 times daily. For long term treatment it is wise not to exceed the dose beyond 2.6 gm/day.",
+        "sideeffect": "Side effects of paracetamol are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally."
+        
+    },
+    {
+        "id": "B002RL8IYA",
+        "title": "Reumazin 500",
+        "price": 5.50,
+        "type": "home",
+        "catagory": "Arthritis",
+        "meal": "After Meal",
+        "deatails": "Rheumatoid arthritis & Juvenile arthritis: In the treatment of patients with rheumatoid arthritis and pediatiric patients with polyarticular-course juvenile rheumatoid arthritis, who have responded inadequately to salicylates or other non-steroidal anti-inflammatory drugs (NSAIDs). Ulcerative colitis and Crohn's Disease: As adjunct in the treatment of ulcerative colitis with the usual supportive and dietary measures. In the treatment of active Crohn's disease, especially in patients with colonic involvement..",
+        "img": "https://aristopharma.com/upload/product_manage/1641206199.png",
+        "dosage": "500 mg orally 2 to 4 times a day with food.",
+        "sideeffect": "The common adverse reactions are anorexia, headache, nausea, vomiting, gastric distress, dyspepsia, abdominal pain, dizziness, apparently reversible oligospermia etc."
+        
+    },
+    {
+        "id": "B002RL8IYB",
+        "title": "Sergel 20",
+        "price": 7.00,
+        "type": "home",
+        "catagory": "Gastric",
+        "meal": "Before Meal",
+        "deatails": "Esomeprazole is a proton pump inhibitor that suppresses gastric acid secretion by specific inhibition of the H+/K+-ATPase in the gastric parietal cell. Esomeprazole (S-isomer of omeprazole) is the first single optical isomer of proton pump inhibitor, provides better acid control than racemic proton pump inhibitors.",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMTdcLzE3MzM1LVNlcmdlbC0yMG1nLThiOTguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19",
+        "dosage": "20 mg or 40 mg Once Daily for 4-8 Weeks. The majority of patients are healed within 4 to 8 weeks.",
+        "sideeffect": "The most frequently occurring adverse events reported with Esomeprazole include headache, diarrhoea, nausea, flatulence, abdominal pain, constipation and dry mouth. There are no difference in types of related adverse events seen during maintenance treatment upto 12 months compared to short term treatment."
+    },
+    {
+        "id": "B002RL8IYC",
+        "title": "Motigut",
+        "price": 3.00,
+        "type": "home",
+        "catagory": "Gastric",
+        "meal": "Before Meal",
+        "deatails": "Domperidone is a dopamine antagonist that principally blocks the dopamine receptors located in the ChemoreceptorTrigger Zone (CTZ) and stomach. Its gastroprokinetic action is based on its blocking effect of dopamine receptors that have an influence on the motility of the gastrointestinal tract. Due to its weak penetration across the blood-brain barrier, Domperidone has almost no effect on the dopaminergic receptors in the brain, therefore, excluding psychotropic and neurologic side effects..",
+        "img": "https://squarepharma.com.bd/products/Motigut%20Tab.jpg",
+        "dosage": "20 mg or 40 mg Once Daily for 4-8 Weeks. The majority of patients are healed within 4 to 8 weeks.",
+        "sideeffect": "Domperidone may produce hyperprolactinemia (1.3%).This may result in galactorrhea, breast enlargement, and soreness and reduced libido. Dry mouth (1%), thirst, headache (1.2%), nervousness, drowsiness (0.4%), diarrhea (0.2%), skin rash and itching (0.1%) may occur during treatment with domperidone. Extra-pyramidal reactions are seen in 0.05% of patients in clinical studies."
+    },
+    {
+        "id": "B002RL8IYD",
+        "title": "Ciprocin 500",
+        "price": 8.00,
+        "type": "home",
+        "catagory": "Antibiotic",
+        "meal": "After Meal",
+        "deatails": "Ciprofloxacin is indicated for the treatment of Respiratory Tract Infections,Urinary tract infections, Pelvic Inflammatory Diseases, Infectious Diarrhea (Shigella dysenteriae, Vibrio cholera), Typhoid fever, Intra-abdominal infections, Prostatitis, Skin and Soft Tissue Infections, Bone and Joint Infections, Gonorrhea, Neutropenic patients with fever due to bacterial infection, Meningitis, Surgical prophylaxis.",
+        "img": "https://cdn.osudpotro.com/medicine/ciprocin-500-1631952244257.webp",
+        "dosage": "20 mg or 40 mg Once Daily for 4-8 Weeks. The majority of patients are healed within 4 to 8 weeks.",
+        "sideeffect": "Side effects include- nausea and other gastrointestinal disturbances, headache, dizziness, joint pain and skin rashes."
+    },
+    {
+        "id": "B002RL8IYE",
+        "title": "Etorix 60",
+        "price": 7.50,
+        "type": "home",
+        "catagory": "Pain Killer",
+        "meal": "After Meal",
+        "deatails": "Etoricoxib is a potent, orally active cyclooxygenase-2 (COX-2) specific inhibitor within, and significantly above, the clinical dose range. Two isoforms of cyclooxygenase have been identified: cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2). COX-1 is responsible for prostaglandin-mediated normal physiologic functions such as gastric cytoprotection and platelet aggregation.",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvN1wvNzAwOC1FdG9yaXgtOTBtZy1ocml2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ==",
+        "dosage": "20 mg or 40 mg Once Daily for 4-8 Weeks. The majority of patients are healed within 4 to 8 weeks.",
+        "sideeffect": "Side-effects may include palpitation, fatigue, influenza-like symptoms, ecchymosis; less commonly dry mouth, taste disturbance, mouth ulcer, appetite and weight change, atrial fibrillation, transient ischaemic attack, chest pain, flushing, cough, dyspnoea, epistaxis, anxiety, mental acuity impaired, paraesthesia, electrolyte disturbance, myalgia"
+    },
+    {
+        "id": "B002RL8IYF",
+        "title": "Fexo 120",
+        "price": 8.50,
+        "type": "service",
+        "catagory": "Cold",
+        "meal": "After Meal",
+        "deatails": "Fexofenadine Hydrochloride is an antihistamine with selective peripheral H1-receptor antagonist activity. It is rapidly absorbed after oral administration and peak plasma concentration is reached in 2-3 hours. It does not appear to cross the blood brain barrier.",
+        "img": "https://www.medicinestore.org/wp-content/uploads/2020/07/FEXO-120-300x300.jpg",
+        "dosage": "Tablet: 60 mg twice daily or 120 mg once daily or 180 mg once daily",
+        "sideeffect": "Common side effects are headache, fatigue, drowsiness, nausea, dry mouth and gastrointestinal disturbances."
+    },
+   
+    {
+        "id": "B002RL8IYG",
+        "title": "Amodis 400",
+        "price": 4.50,
+        "type": "service",
+        "catagory": "Diarrhoea",
+        "meal": "After Meal",
+        "deatails": "Metronidazole is a member of the imidazole class of antibacterial drug and is classified therapeutically as an antiprotozoal agent. The 5-nitro group of Metronidazole is reduced by anaerobes metabolically. Studies have demonstrated that the reduced form of this drug interacts with DNA and gives bactericidal action of Metronidazole.",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjRcLzI0NjgzLUFtb2Rpcy00MDBtZy1zZ29jLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ==",
+        "dosage": "200 mg tid or 400 mg bid for 7 days",
+        "sideeffect": "Metallic taste, nausea, vomiting, diarrhoea, drowsiness, rashes may be observed during treatment."
+    },
+    {
+        "id": "B002RL8IYH",
+        "title": "Zimax 500",
+        "price": 38.50,
+        "type": "service",
+        "catagory": "Antibiotic",
+        "meal": "After Meal",
+        "deatails": "Azithromycin is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Azithromycin is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis.",
+        "img": "https://epharma.com.bd/storage/app/public/igsvsKGF5xawvIypPkyn33Q6V2HtJ3EkREn2KbZc.jpg",
+        "dosage": "500 mg once daily orally for 3 days or 500 mg once on day 1, then 250 mg once on days 2-5 for 4 days.",
+        "sideeffect": "Azithromycin is well tolerated with a low incidence of side effects. The side effects include nausea, vomiting, abdominal discomfort (pain/cramps), flatulence, diarrhoea, headache, dizziness, and skin rashes and are reversible upon discontinuation of therapy."
+    },
+    {
+        "id": "B002RL8IYI",
+        "title": "Devas syrup",
+        "price": 65.50,
+        "type": "service",
+        "catagory": "Cold",
+        "meal": "After Meal",
+        "deatails": "This syrup is a preparation of a combination of effective herbs which is helpful in all types of cough & cold. The used herbs are well tolerated, safe & non-sedating with potent antiallergic properties. DEVAS syrup is good for both children and adults. It is free of side effects.",
+        "img": "https://www.drug-international.com/uploads/product_images/1532423574DEVAS%20100.jpg",
+        "dosage": "3 teaspoonful (15 ml) 2-3 times a day.",
+        "sideeffect": "This syrup is proven as safe. It is well tolerated. In high dose diarrhea, vomiting may occur."
+    }
+   
+]

@@ -1,0 +1,13 @@
+.product-list{
+    background-color: moccasin;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.cart-list{
+    background-color: rgb(240, 204, 142);
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}

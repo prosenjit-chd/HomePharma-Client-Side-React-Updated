@@ -1,0 +1,41 @@
+/* Home page custom Style classes  */
+.img-custom{
+    height: 500px;
+}
+.carousel-custom{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+h3 {
+    color: rgb(92, 4, 4);
+}
+p {
+    color: rgb(41, 2, 2);
+}
+/* Partners are  */
+
+.partner{
+    padding: 10px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: white;
+    margin-top: 20px;
+}
+.text-center-partner{
+    text-align: center;
+    font: 300;
+    margin-bottom: 30px;
+}
+.partners-logo-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.partner-logo{
+    margin-right: 50px;
+}
+.partner-logo img{
+    width: 180px;
+    height: 130px;
+}

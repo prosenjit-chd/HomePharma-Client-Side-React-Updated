@@ -1,0 +1,22 @@
+/* Log In page custom style  */
+.home-main {
+    background-image: url('https://i.pinimg.com/originals/fc/5a/b4/fc5ab41838901235e71b367500577083.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.home-detaimain {
+    background-color: rgba(253, 245, 230, 0.74);
+    height: 560px;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 60px;
+}
+.title{
+    font-size: 22px;
+    font-weight: 600;
+}

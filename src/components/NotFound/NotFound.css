@@ -1,0 +1,7 @@
+/* Custom style 404 page  */
+.notfound-bg {
+    background-image: url('https://drudesk.com/sites/default/files/2018-02/404-error-page-not-found.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
